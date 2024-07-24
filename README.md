@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @averyvisentin
-- 👀 I’m interested in progressing my skills and proficiencies with a computer
-- 🌱 I’m currently taking the full stack developement course on The Odin Project
+I don't know what I'm doing
